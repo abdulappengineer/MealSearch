@@ -2,6 +2,7 @@ package com.abdul.mealsearch.presenation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import com.abdul.mealsearch.R
 
 import dagger.hilt.android.AndroidEntryPoint
